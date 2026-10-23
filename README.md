@@ -1,12 +1,12 @@
 # Hi, I'm Duc Anh 👋
 
-I'm a **Computer Engineering student at VNU-HCMUT (Ho Chi Minh City University of Technology)**, interested in **Digital Design, Computer Architecture, Microprocessors, and Hardware Verification**.
+I'm a **Computer Engineering student at VNU-HCMUT (Ho Chi Minh City University of Technology)**, interested in **Digital Design and Design Verification**.
 
 ## 🚀 About Me
 
 - 🎓 Studying Computer Engineering at **VNU-HCMUT**
 - 🧠 Interested in **Computer Architecture, RISC-V processors, and digital systems**
-- 🔧 Building **microprocessor and microcontroller** projects
+- 🔧 Building **Verification** projects
 - 🧪 Exploring **Verilog, SystemVerilog, and UVM verification**
 - 💻 Enjoy designing, simulating, and verifying digital hardware
 
